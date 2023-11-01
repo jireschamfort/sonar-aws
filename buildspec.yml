@@ -2,4 +2,4 @@ version: 0.1
 phases:
   build:
     commands:
-      - mvn verify sonar:sonar -Dsonar.projectKey=thinkcloudly -Dsonar.organization=devsecops-thinkcloudly -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=1ed48170431874d55c022e22716af3909ec2149e
+      - mvn verify sonar:sonar -Dsonar.projectKey=Devsecops2023 -Dsonar.organization=Jires Tchuenteu -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=825488b4ea10744889db0b52018257fba3c714ac
